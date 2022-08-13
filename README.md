@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...C language
 - 🌱 I’m currently learning ...C language
 - 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me anything in tech and real estate i bet i'll answer
+- 💬 Ask me anything in tech, blockchain and real estate i bet i'll answer
 - 📫 How to reach me: ...+2348141953852
 - ⚡ Fun fact: I love travelling
 -->
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCryptoDivanaija
