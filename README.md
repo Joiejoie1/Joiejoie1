@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor
+# I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor
 
 <!--
 **Joiejoie1/Joiejoie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
