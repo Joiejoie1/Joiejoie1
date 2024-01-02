@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor
+### I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor. I'm interested in development, real estate investment and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 <!--
 **Joiejoie1/Joiejoie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## ️ Languages and Tools
 
-![skills](https://skillicons.dev/icons?i=c,html,css,js,mysql,py,vim,md,git,bash,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=c,html,css,js,mysql,py,vim,md,git,bash,vscode,discord&theme=light)
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CryptoDivanaija) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-g-a163b7234/) ![Profile views](https://gpvc.arturio.dev/Joiejoie1)
