@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...C language
-- 🌱 I’m currently learning ...C language
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on ...some React Projects
+- 🌱 I’m currently learning ...various programming languages
+- 👯 I’m looking to collaborate with other Developers and Content Creators
 - 💬 Ask me anything in tech, blockchain and real estate i bet i'll answer
 - 📫 How to reach me: ...+2348141953852
 - ⚡ Fun fact: I love travelling
