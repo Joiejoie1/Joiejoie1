@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor. I'm interested in development, real estate investment and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+### I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor. I'm interested in development, building thriving online communities and real estate investments. I work on random projects in my free time, a lot involving Discord!
 
 <!--
 **Joiejoie1/Joiejoie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
