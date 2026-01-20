@@ -1,5 +1,6 @@
 ## Hi there 👋
-### I'm a Bi-Lingual (English & French) Frontend Developer, Blochchain Developer, Investor and a Realtor. I'm interested in development, building thriving online communities and real estate investments. I work on random projects in my free time, a lot involving Discord!
+### I'm a Bi-Lingual (English & French) Frontend Developer specializing in React, React Native, Next.js, Node.js | Open-source contributor | Blochchain Developer. Seeking roles as a Frontend Software Engineer. I work on random projects in my free time, a lot involving Discord!
+
 
 <!--
 **Joiejoie1/Joiejoie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...some React Projects
 - 🌱 I’m currently learning ...various programming languages
 - 👯 I’m looking to collaborate with other Developers and Content Creators
-- 💬 Ask me anything in tech, blockchain and real estate i bet i'll answer
+- 💬 Ask me anything in tech and blockchain i bet i'll answer
 - 📫 How to reach me: ...+2348141953852
 - ⚡ Fun fact: I love travelling
 -->
