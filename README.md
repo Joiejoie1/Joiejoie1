@@ -1,5 +1,6 @@
 ## Hi there 👋
-### I'm a Bi-Lingual (English & French) Frontend Developer specializing in React, React Native, Next.js, Node.js | Open-source contributor | Blochchain Developer. Seeking roles as a Frontend Software Engineer. I work on random projects in my free time, a lot involving Discord!
+### I'm a Bi-Lingual (English & French) Frontend Developer specializing in React, React Native, Next.js, Node.js | Open-source contributor | Blochchain Developer. I am open to new opportunities. 
+I work on random projects in my free time!
 
 
 <!--
